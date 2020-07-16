@@ -1,74 +1,127 @@
 {
-
-    "project": [{
-    "id":"0",
-    "h2": " wollabilla",
-    "h3": "honkytonky pinky panky slanky",
-    "thumb":"https://via.placeholder.com/600x600.png?text=Thumb+1",
-    "alt":"alttxt",
-    "title":"titletxt",
-    "p1":"some tekst",
-    "p2":"some tekst",
-    "p3":"some tekst"
-
-    },
-    {
-    "id":"1",
-    "h2": " wollabilla 2",
-    "h3": "honkytonky pinky panky slanky 2",
-    "thumb":"https://via.placeholder.com/600x600.png?text=Thumb+2",
-    "alt":"alttxt",
-    "title":"titletxt",
-    "p1":"some tekst 2",
-    "p2":"some tekst 2",
-    "p3":"some tekst 2"
-
-    },
-    {
-    "id":"2",
-    "h2": " wollabilla 3",
-    "h3": "honkytonky pinky panky slanky 3",
-    "thumb":"https://via.placeholder.com/600x600.png?text=Thumb+3",
-    "alt":"alttxt",
-    "title":"titletxt",
-    "p1":"some tekst 3",
-    "p2":"some tekst 3",
-    "p3":"some tekst 3"
-
-    },
-    {
-    "id":"3",
-    "h2": " wollabilla 4",
-    "h3": "honkytonky pinky panky slanky 4",
-    "thumb":"https://via.placeholder.com/600x600.png?text=Thumb+4",
-    "alt":"alttxt",
-    "title":"titletxt",
-    "p1":"some tekst 4",
-    "p2":"some tekst 4",
-    "p3":"some tekst 4"
-    },
-    {
-    "id":"4",
-    "h2": " wollabilla 5",
-    "h3": "honkytonky pinky panky slanky 5",
-    "thumb":"https://via.placeholder.com/600x600.png?text=Thumb+5",
-    "alt":"alttxt",
-    "title":"titletxt",
-    "p1":"some tekst 5",
-    "p2":"some tekst 5",
-    "p3":"some tekst 5"
-
-    },
-    {
-    "id":"5",
-    "h2": " wollabilla 6",
-    "h3": "honkytonky pinky panky slanky 6",
-    "thumb":"https://via.placeholder.com/600x600.png?text=Thumb+6",
-    "alt":"alttxt",
-    "title":"titletxt",
-    "p1":"some tekst 6",
-    "p2":"some tekst 6",
-    "p3":"some tekst 6"
-    }]
-
+    "project": [
+        {
+            "id": "0",
+            "Date": "xx.xx.xx",
+            "Client": "xxxx",
+            "Role": "Art Director / Designer",
+            "URL": "xxx",
+            "URLtxt": "xxx",
+            "h2": "project 0",
+            "ptxt": "text mekst lekst<br>sbnacks backs laks wacka",
+            "h3": "honkytonky project 0",
+            "p1":"thumb txt 0",
+            "thumb": "https://via.placeholder.com/600x600.png?text=Thumb+0",
+            "alt": "alttxt",
+            "title": "titletxt",
+            "images": [
+                "https://via.placeholder.com/850x850.png?text=1",
+                "https://via.placeholder.com/850x850.png?text=2",
+                "https://via.placeholder.com/850x850.png?text=3",
+                "https://via.placeholder.com/850x850.png?text=4",
+                "https://via.placeholder.com/850x850.png?text=5"
+            ], "alts": [
+                "An image of something 1",
+                "An image of something 2",
+                "An image of something 3",
+                "An image of something 4",
+                "An image of something 5"
+            ],
+            "titles": [
+                "titletxt 1",
+                "titletxt 2",
+                "titletxt 3",
+                "titletxt 4",
+                "titletxt 5"
+            ],
+            "fcaps": [
+                "some tekst 1",
+                "some tekst 2",
+                "some tekst 3",
+                "some tekst 4",
+                "some tekst 5"
+            ]},
+            {
+                "id": "1",
+                "Date": "xx.xx.xx",
+                "Client": "xxxx",
+                "Role": "Art Director / Designer",
+                "URL": "xxx",
+                "URLtxt": "xxx",
+                "h2": "project 1",
+                "ptxt": "text mekst project 1",
+                "h3": "honkytonky project 1",
+                "p1":"thumb txt 1",
+                "thumb": "https://via.placeholder.com/600x600.png?text=Thumb+1",
+                "alt": "alttxt",
+                "title": "titletxt",
+                "images": [
+                    "https://via.placeholder.com/850x850.png?text=1.1",
+                    "https://via.placeholder.com/850x850.png?text=2.1",
+                    "https://via.placeholder.com/850x850.png?text=3.1",
+                    "https://via.placeholder.com/850x850.png?text=4.1",
+                    "https://via.placeholder.com/850x850.png?text=5.1"
+                ], "alts": [
+                    "An image of something 1.1",
+                    "An image of something 2.1",
+                    "An image of something 3.1",
+                    "An image of something 4.1",
+                    "An image of something 5.1"
+                ],
+                "titles": [
+                    "titletxt 1.1",
+                    "titletxt 2.1",
+                    "titletxt 3.1",
+                    "titletxt 4.1",
+                    "titletxt 5.1"
+                ],
+                "fcaps": [
+                    "some tekst 1.1",
+                    "some tekst 2.1",
+                    "some tekst 3.1",
+                    "some tekst 4.1",
+                    "some tekst 5.1"
+                ]},
+                {
+                    "id": "2",
+                    "Date": "xx.xx.xx",
+                    "Client": "xxxx",
+                    "Role": "Art Director / Designer",
+                    "URL": "xxx",
+                    "URLtxt": "xxx",
+                    "h2": "project 2",
+                    "ptxt": "text mekst lekst<br>project 2",
+                    "h3": "honkytonky project 2",
+                    "p1":"thumb txt 2",
+                    "thumb": "https://via.placeholder.com/600x600.png?text=Thumb+2",
+                    "alt": "alttxt",
+                    "title": "titletxt",
+                    "images": [
+                        "https://via.placeholder.com/850x850.png?text=1.2",
+                        "https://via.placeholder.com/850x850.png?text=2.2",
+                        "https://via.placeholder.com/850x850.png?text=3.2",
+                        "https://via.placeholder.com/850x850.png?text=4.2",
+                        "https://via.placeholder.com/850x850.png?text=5.2"
+                    ], "alts": [
+                        "An image of something 1.2",
+                        "An image of something 2.2",
+                        "An image of something 3.2",
+                        "An image of something 4.2",
+                        "An image of something 5.2"
+                    ],
+                    "titles": [
+                        "titletxt 1.2",
+                        "titletxt 2.2",
+                        "titletxt 3.2",
+                        "titletxt 4.2",
+                        "titletxt 5.2"
+                    ],
+                    "fcaps": [
+                        "some tekst 1.2",
+                        "some tekst 2.2",
+                        "some tekst 3.2",
+                        "some tekst 4.2",
+                        "some tekst 5.2"
+                    ]}
+    ]
 }

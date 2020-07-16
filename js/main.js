@@ -1,6 +1,6 @@
 
 var data;
-var curentid;
+var curentid=0;
 let cw = document.querySelector('.content-wrap');
 let modal = document.querySelector('.modal');
 
@@ -47,14 +47,13 @@ function showtime() {
     for (i = 0; i < data.project.length; i++) {
 
 
-      let h2 = data.project[i].h2;
+   
       let h3 = data.project[i].h3;
       let thumb = data.project[i].thumb;
       let alt = data.project[i].alt;
       let title = data.project[i].title;
       let p1 = data.project[i].p1;
-      let p2 = data.project[i].p2;
-      let p3 = data.project[i].p3;
+     
 
       let projects = `<article class="brick" id="${i}">
        
@@ -72,10 +71,55 @@ function showtime() {
 
 
 
+let  date   = data.project[i].Date;
+let  client = data.project[i].Client;
+let  role   = data.project[i].Role;
+let  uRL    = data.project[i].URL;
+let  uRLtxt = data.project[i].URLtxt;
+let  h2     = data.project[i].h2;
+let  ptxt   = data.project[i].ptxt;
+let  images = data.project[i].images;
+let  alts   = data.project[i].alts;
+let  titles = data.project[i].titles;
+let  fcaps  = data.project[i].fcaps;
+
+//======================================================================================//
+let modalslidecontent=`<section class="modal-content">
+<article>
+    <aside class="info">
+        <p>Date: ${date}<br>
+            Client: ${client}<br>
+            Role: ${role}<br>
+            URL: <a href="${uRL}">${uRLtxt}</a>
+        </p>
+    </aside>
+    <h2>${h2}</h2>
+    <p>${ptxt}</p>
+    <figure class="figure fadein">`
+    
+    for (let i = 0; i < images.length; i++) { 
+      modalslidecontent=modalslidecontent+`<img class="center" src="${images[i]}" alt="${alts[i]}" title="${titles[i]}" loading="lazy" onload="className='fadein'" width="100%" height="auto">
+       <figcaption>${fcaps[i]}</figcaption>`
+    } 
+
+modalslidecontent=modalslidecontent+`</figure></article></section>`
+modalslide.innerHTML += modalslidecontent;;
+//======================================================================================//
+
+modalslides=document.querySelectorAll('.modal-content');
+
+  if(modalslides.length==data.project.length){
+    gsap.set('.modal-content', { xPercent: '-100' });
+  }
+ 
 
 
     }
   });
+
+
+
+
 
 
     document.querySelector('body').addEventListener('click', function(e) {
@@ -85,17 +129,23 @@ function showtime() {
       // Check if the event.target is a remove button
       if (e.target.matches('.brick')) {
         
-        curentid=e.target.id;
-        asideContent(e.target.id)
-
+       // curentid=e.target.id;
+    
         if( modalstate == 0 ){
-          modalstate = 1;
+           modalstate = 1;
+           asidenavgoto(e.target.id)
            gsap.to(".modal", {duration: 0.8, xPercent: '-100',ease: "elastic.out(1, 2)"});
+          
         }else{
+
+          asidenavgoto(e.target.id)
+        }
+        
+        /*else{
           modalstate = 0;
           gsap.to(".modal", {duration: 0.8, xPercent: '100',ease: "elastic.In(1, 2)"});
         }
-
+        */
       }
     });
 
@@ -103,30 +153,11 @@ function showtime() {
 
 
 
-gsap.set('.modal-content', { xPercent: '100' });
+
 
 }
 
-function asideContent(projectid){
-  
-  let adata=data.project[projectid]
 
-
-  let ah2 = adata.h2;
-  let ah3 = adata.h3;
-  let athumb = adata.thumb;
-  let aalt = adata.alt;
-  let atitle = adata.title;
-  let ap1 = adata.p1;
-  let ap2 = adata.p2;
-  let ap3 = adata.p3;
-
-  
-  
-  console.log(modalslides[curentid])
- //gsap.set(, { visibility:"visible" });
- gsap.fromTo(modalslides[curentid],0.8,{ xPercent: -100 },{ xPercent: 0 ,ease: "elastic.out(1, 2)"});
-}
 
 
 asidenav.addEventListener('click', function(e) {
@@ -134,9 +165,11 @@ asidenav.addEventListener('click', function(e) {
   if (!e.target) { return; }
 
 
-
-
-
+    let modalslides=document.querySelectorAll('.modal-content');
+    let curmf=modalslides[curentid].querySelectorAll('figure');
+    
+    //gsap.set(curmf, { display: block });
+    
     if (e.target.matches('.prev')) {
       gsap.to(modalslides[curentid], {duration: 0.8, xPercent: 100,ease: "elastic.out(1, 2)"});
       
@@ -163,6 +196,30 @@ asidenav.addEventListener('click', function(e) {
 });
 
 
+
+
+
+  function asidenavgoto(brickid){
+
+    let curmf=modalslides[brickid].querySelectorAll('figure');
+    gsap.set(curmf, { visibility: "visible" });
+
+      gsap.to(modalslides[curentid], {duration: 0.8, xPercent: -100,ease: "elastic.out(1, 2)"});
+     
+      curentid=brickid; 
+
+      gsap.fromTo(modalslides[curentid],0.8,{ xPercent: 100 },{ xPercent: 0 ,ease: "elastic.out(1, 2)"});
+
+  }
+
+
+
+
+
+
+
+
+
 if (document.readyState === 'loading') {
   document.addEventListener('DOMContentLoaded', showtime);
 } else {
@@ -170,3 +227,7 @@ if (document.readyState === 'loading') {
   showtime();
 
 }
+
+
+
+
