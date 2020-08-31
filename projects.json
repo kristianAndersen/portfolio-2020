@@ -2,126 +2,507 @@
     "project": [
         {
             "id": "0",
-            "Date": "xx.xx.xx",
-            "Client": "xxxx",
-            "Role": "Art Director / Designer",
-            "URL": "xxx",
-            "URLtxt": "xxx",
-            "h2": "project 0",
-            "ptxt": "text mekst lekst<br>sbnacks backs laks wacka",
-            "h3": "honkytonky project 0",
-            "p1":"thumb txt 0",
-            "thumb": "https://via.placeholder.com/600x600.png?text=Thumb+0",
-            "alt": "alttxt",
-            "title": "titletxt",
+            "Client": "Danske Spil DLI",
+            "Role": "Layout/illustration",
+            "URL": " ",
+            "URLtxt": " ",
+            "h2": "Banner ads",
+            "ptxt": "for various brands at Danske Spil DLI",
+            "h3": "Static banner ads",
+            "p1":" ",
+            "thumb": "img/banners/banners.jpg",
+            "alt": "mixed banner ad's",
+            "title": "Banner ads",
             "images": [
-                "https://via.placeholder.com/850x850.png?text=1",
-                "https://via.placeholder.com/850x850.png?text=2",
-                "https://via.placeholder.com/850x850.png?text=3",
-                "https://via.placeholder.com/850x850.png?text=4",
-                "https://via.placeholder.com/850x850.png?text=5"
+                "img/banners/poker_banneres.jpg",
+                "img/banners/banners_livecasino.jpg",
+                "img/banners/banners_spillehjornet.jpg",
+                "img/banners/Casino_banners.jpg",
+                "img/banners/bigo_banners.jpg",
+                "img/banners/datoto_banners.jpg"
             ], "alts": [
-                "An image of something 1",
-                "An image of something 2",
-                "An image of something 3",
-                "An image of something 4",
-                "An image of something 5"
+                "An image of poker banners",
+                "An image of livecasino banners",
+                "An image of spillehjørnet banners",
+                "An image of Casino banners",
+                "An image of Bingo Banners",
+                "An image of Dantoto Banners"
             ],
             "titles": [
-                "titletxt 1",
-                "titletxt 2",
-                "titletxt 3",
-                "titletxt 4",
-                "titletxt 5"
+                "poker banners",
+                "livecasino banners",
+                "spillehjørnet banners",
+                "Casino banners",
+                "Bingo Banners",
+                "Dantoto Banners"
             ],
             "fcaps": [
-                "some tekst 1",
-                "some tekst 2",
-                "some tekst 3",
-                "some tekst 4",
-                "some tekst 5"
-            ]},
+                "Poker.",
+                "Live Casino.",
+                "Spillehjørnet.",
+                "Casino.",
+                "Bingo.",
+                "Dantoto."
+                ],
+                "iframe":[],
+                "motion":[]
+            },
             {
                 "id": "1",
-                "Date": "xx.xx.xx",
-                "Client": "xxxx",
-                "Role": "Art Director / Designer",
-                "URL": "xxx",
-                "URLtxt": "xxx",
-                "h2": "project 1",
-                "ptxt": "text mekst project 1",
-                "h3": "honkytonky project 1",
-                "p1":"thumb txt 1",
-                "thumb": "https://via.placeholder.com/600x600.png?text=Thumb+1",
+                "Client": "IBM Danmark & OgilvyOne",
+                "Role": "Illustration / Art Direction / Layout",
+                "URL": "https://inspiration.postnord.dk/images/PDF/2014_Case_IBM_Lykkelig_uvidenhed.pdf",
+                "URLtxt": "Case description",
+                "h2": "Happy Ignorance",
+                "ptxt": "A pixie book book about big data",
+                "h3": "IBM Lykkelig Uvidenhed",
+                "p1":"winner of BEDSTE DIRECT MAIL<img class='txtwrapimg' src='img/award.png'>",
+                "thumb": "/img/IBM-lykkeliguvidenhed.jpg",
+                "alt": "lykkelig Uvidenhed/Happy Ignorance. IBM",
+                "title": "IBM lykkelig uvidenhed/Happy Ignorance",
+                "images": [
+                    "/img/IBM/IBM-LykkeligUvidenhed-page-xx.jpg",
+                    "/img/IBM/IBM-LykkeligUvidenhed-page-xxx.jpg",
+                    "/img/IBM/IBM-LykkeligUvidenhed-page-xxxx.jpg",
+                    "/img/IBM/IBM-LykkeligUvidenhed-page-xxxxx.jpg",
+                    "/img/IBM/IBM-LykkeligUvidenhed-page-xxxxxx.jpg"
+                ], "alts": [
+                    "A pixibog book about big data page 1",
+                    "A pixibog book about big data page 2",
+                    "A pixibog book about big data page 3",
+                    "A pixibog book about big data page 4",
+                    "A pixibog book about big data page 5"
+                ],
+                "titles": [
+                    "lykkelig uvidenhed 1",
+                    "lykkelig uvidenhed 2",
+                    "lykkelig uvidenhed 3",
+                    "lykkelig uvidenhed 4",
+                    "lykkelig uvidenhed 5"
+                ],
+                "fcaps": [
+                    " ",
+                    " ",
+                    " ",
+                    " ",
+                    " "
+                    ],
+                    "iframe":[],
+                    "motion":[]
+                },
+            {
+                "id": "2",
+                "Client": "Various",
+                "Role": "Layout",
+                "URL": " ",
+                "URLtxt": " ",
+                "h2": "Roll-ups",
+                "ptxt": "",
+                "h3": "Roll-ups",
+                "p1":" ",
+                "thumb": "img/rollups/rollups.jpg",
                 "alt": "alttxt",
                 "title": "titletxt",
                 "images": [
-                    "https://via.placeholder.com/850x850.png?text=1.1",
-                    "https://via.placeholder.com/850x850.png?text=2.1",
-                    "https://via.placeholder.com/850x850.png?text=3.1",
-                    "https://via.placeholder.com/850x850.png?text=4.1",
-                    "https://via.placeholder.com/850x850.png?text=5.1"
+                    "img/rollups/rollups-1.jpg",
+                    "img/rollups/rollups-2.jpg",
+                    "img/rollups/rollups-3.jpg",
+                    "img/rollups/rollups-4.jpg",
+                    "img/rollups/rollups-5_.jpg",
+                    "img/rollups/rollups-6.jpg"
                 ], "alts": [
-                    "An image of something 1.1",
-                    "An image of something 2.1",
-                    "An image of something 3.1",
-                    "An image of something 4.1",
-                    "An image of something 5.1"
+                    "An image of a Roll-up",
+                    "An image of a Roll-up",
+                    "An image of a Roll-up",
+                    "An image of a Roll-up",
+                    "An image of a Roll-up"
                 ],
                 "titles": [
-                    "titletxt 1.1",
-                    "titletxt 2.1",
-                    "titletxt 3.1",
-                    "titletxt 4.1",
-                    "titletxt 5.1"
+                    "Spillehjørnet Yatzy Roll-up",
+                    "Semper porridge Roll-up",
+                    "pillehjørnet Yatzy Roll-up",
+                    "Baby courage Roll-up",
+                    "kagedysten Roll-up",
+                    "Hjerterdame Roll-up"
                 ],
                 "fcaps": [
-                    "some tekst 1.1",
-                    "some tekst 2.1",
-                    "some tekst 3.1",
-                    "some tekst 4.1",
-                    "some tekst 5.1"
-                ]},
+                    "Danske Spil - Spillehjørnet. Yatzy Roll-up.",
+                    "Semper. porridge Roll-up.",
+                    "Danske Spil - Spillehjørnet. Yatzy Roll-up.",
+                    "Baby Courage Roll-up.",
+                    "Danske Spil - Spillehjørnet. Kagedysten Roll-up.",
+                    "Danske Spil - Spillehjørnet. Hjerterdame Roll-up."
+                    ],
+                    "iframe":[],
+                    "motion":[]
+                },
+        
+            {
+                "id": "3",
+                "Client": "Semper Børnemad",
+                "Role": "Art Director / Graphic Designer",
+                "URL": " ",
+                "URLtxt": " ",
+                "h2": "Klar, Parat, Spis",
+                "ptxt": "Baby's First Foods",
+                "h3": "Klar, Parat, Spis",
+                "p1":"Baby's First Food plan",
+                "thumb": "img/semper/klar_parat_spis/klar_parat_spis.jpg",
+                "alt": "Semper Klar, parat, spis",
+                "title": "Klar, Parat, Spis",
+                "images": [
+                    "img/semper/klar_parat_spis/klar_parat_spis_1.jpg",
+                    "img/semper/klar_parat_spis/klar_parat_spis_2.jpg",
+                    "img/semper/klar_parat_spis/klar_parat_spis_3.jpg",
+                    "img/semper/klar_parat_spis/klar_parat_spis_4.jpg",
+                    "img/semper/klar_parat_spis/klar_parat_spis_5.jpg",
+                    "img/semper/klar_parat_spis/klar_parat_spis_6.jpg",
+                    "img/semper/klar_parat_spis/klar_parat_spis_7.jpg",
+                    "img/semper/klar_parat_spis/klar_parat_spis_8.jpg",
+                    "img/semper/klar_parat_spis/klar_parat_spis_9.jpg",
+                    "img/semper/klar_parat_spis/klar_parat_spis_10.jpg",
+                    "img/semper/klar_parat_spis/klar_parat_spis_11.jpg",
+                    "img/semper/klar_parat_spis/klar_parat_spis_12.jpg"
+                ], "alts": [
+                    "An image of two babies",
+                    "An image of baby's food plan 5 to 6 months",
+                    "An image of Baby eating",
+                    "An image of baby's food plan 6 to 9 months",
+                    "An image of Baby looking devious",
+                    "An image of baby's food plan 9 to 12 months",
+                    "An image of Baby looking over its shoulder",
+                    "An image of babys food advice",
+                    "An image of more babys food advice",
+                    "An image of a quick guide",
+                    "An image of a semper ad",
+                    "An image of semper mobile app"
+                ],
+                "titles": [
+                    "semper klar, part, spis side 1",
+                    "semper klar, part, spis side 2",
+                    "semper klar, part, spis side 3",
+                    "semper klar, part, spis side 4",
+                    "semper klar, part, spis side 5",
+                    "semper klar, part, spis side 6",
+                    "semper klar, part, spis side 7",
+                    "semper klar, part, spis side 8",
+                    "semper klar, part, spis side 9",
+                    "semper klar, part, spis side 10",
+                    "semper klar, part, spis side 11",
+                    "semper klar, part, spis side 12"
+                ],
+                "fcaps": [
+                    " ",
+                    " ",
+                    " ",
+                    " ",
+                    " ",
+                    " ",
+                    " ",
+                    " ",
+                    " ",
+                    " ",
+                    " ",
+                    " "
+                    ],
+                    "iframe":[],
+                    "motion":[]
+                },
                 {
-                    "id": "2",
-                    "Date": "xx.xx.xx",
-                    "Client": "xxxx",
-                    "Role": "Art Director / Designer",
-                    "URL": "xxx",
-                    "URLtxt": "xxx",
-                    "h2": "project 2",
-                    "ptxt": "text mekst lekst<br>project 2",
-                    "h3": "honkytonky project 2",
-                    "p1":"thumb txt 2",
-                    "thumb": "https://via.placeholder.com/600x600.png?text=Thumb+2",
-                    "alt": "alttxt",
-                    "title": "titletxt",
+                    "id": "4",
+                    "Client": "Danske spil / VEGAS",
+                    "Role": "Illustrator",
+                    "URL": " ",
+                    "URLtxt": " ",
+                    "h2": "Lis og Lasse Vegas",
+                    "ptxt": "Vegas.dk a Dansle Spil Challenger Brand",
+                    "h3": "Vegas.dk",
+                    "p1":"Illustrations for facebook posts",
+                    "thumb": "img/vegas/vagas.jpg",
+                    "alt": "Vegas",
+                    "title": "Lis og Lasse Vegas",
                     "images": [
-                        "https://via.placeholder.com/850x850.png?text=1.2",
-                        "https://via.placeholder.com/850x850.png?text=2.2",
-                        "https://via.placeholder.com/850x850.png?text=3.2",
-                        "https://via.placeholder.com/850x850.png?text=4.2",
-                        "https://via.placeholder.com/850x850.png?text=5.2"
+                        "img/vegas/FB-vegas-camping.jpg",
+                        "img/vegas/FB-vegas-tourDeFrance.jpg",
+                        "img/vegas/Vegas-FB-Bilvask.jpg",
+                        "img/vegas/FB-vegas-vindEnSommerferie.jpg",
+                        "img/vegas/FB-vegas-yoga.jpg",
+                        "img/vegas/Vegas-poisiensdag-FB.jpg",
+                        "img/vegas/Koldt-FB.jpg",
+                        "img/vegas/Vegas-FB-AprilsNAr.jpg",
+                        "img/vegas/Vegas-FB-DansensDag.jpg",
+                        "img/vegas/Vegas-FB-Halloween.jpg",
+                        "img/vegas/Vegas-FB-KvindernesKampDag.jpg",
+                        "img/vegas/Vegas-FB-maddrøm.jpg",
+                        "img/vegas/Vegas-FB-MusikkensDag.jpg",
+                        "img/vegas/Vegas-FB-Nytår.jpg",
+                        "img/vegas/Vegas-FB-STPatriksDag.jpg",
+                        "img/vegas/Vegas-FB-tombola-banko.jpg",
+                        "img/vegas/Vegas-januar-reninger-FB.jpg",
+                        "img/vegas/Vegas-Oscar-ingenoscar-FB.jpg",
+                        "img/vegas/Vinterferie-Vegas-FB.jpg"
                     ], "alts": [
-                        "An image of something 1.2",
-                        "An image of something 2.2",
-                        "An image of something 3.2",
-                        "An image of something 4.2",
-                        "An image of something 5.2"
+                        "An image of something 1.1"
                     ],
                     "titles": [
-                        "titletxt 1.2",
-                        "titletxt 2.2",
-                        "titletxt 3.2",
-                        "titletxt 4.2",
-                        "titletxt 5.2"
+                        "titletxt 1.1"
                     ],
                     "fcaps": [
-                        "some tekst 1.2",
-                        "some tekst 2.2",
-                        "some tekst 3.2",
-                        "some tekst 4.2",
-                        "some tekst 5.2"
-                    ]}
+                        "Camping.",
+                        "TourDeFrance.",
+                        "Carwash.",
+                        "Win a Summer Vacation.",
+                        "Yoga.",
+                        "Poetry day.",
+                        "Cold.",
+                        "April Fool.",
+                        "Dance Day.",
+                        "Halloween.",
+                        "International Women's Day.",
+                        "Food dreams.",
+                        "Music Day.",
+                        "New Year.",
+                        "ST. patrick's day.",
+                        "Raffle.",
+                        "January bills.",
+                        "The Oscars.",
+                        "Winter holiday."
+                        ],
+                        "iframe":[],
+                        "motion":[]
+                    },                
+                {
+                                "id": "5",
+                                "Client": "Semper Danmark",
+                                "Role": "UX / Design/",
+                                "URL": "https://www.semperbornemad.dk/dit-barns-mad-klar-parat-spis/app-guide",
+                                "URLtxt": "Get the app here",
+                                "h2": "Klar, Part, Spis",
+                                "ptxt": "As an IOS/Android mobie app",
+                                "h3": "Klar, Part, Spis",
+                                "p1":"The mobile App",
+                                "thumb": "img/semper/kps_app/KPS-app.jpg",
+                                "alt": "alttxt",
+                                "title": "titletxt",
+                                "images": [
+                                    "img/semper/kps_app/KPS-app_2.jpg",
+                                    "img/semper/kps_app/KPS-app_3.jpg",
+                                    "img/semper/kps_app/KPS-app_1.jpg"
+                                ], "alts": [
+                                    "An image of screens from the klar, part, spis app",
+                                    "An image of screens from the klar, part, spis app icons",
+                                    "An image of a hand drawn flow of the app"
+                                ],
+                                "titles": [
+                                    " klar, part, spis app screens",
+                                    " klar, part, spis app icons",
+                                    "hand drawn app flow "
+                                ],
+                                "fcaps": [
+                                    "A few of the main screens from the app.",
+                                    "Icons used in the app.",
+                                    "The Initial wireframes was hand drawn to keep focus on <br> the ideers and flow."
+                                ],"iframe":[],
+                                "motion":[]
+                            },
+                            {
+                                "id": "6",
+                                "Client": "xxxx",
+                                "Role": "Designer / coder",
+                                "URL": " ",
+                                "URLtxt": " ",
+                                "h2": "Merc. T-shirts and so on",
+                                "ptxt": "",
+                                "h3": "Merchandise",
+                                "p1":"",
+                                "thumb": "img/random/random.jpg",
+                                "alt": "",
+                                "title": "",
+                                "images": [
+                                    "img/random/random_2.jpg",
+                                    "img/random/random_3.jpg",
+                                    "img/random/random_4.jpg",
+                                    "img/random/random_5.jpg",
+                                    "img/random/random_6.jpg",
+                                    "img/random/random_1.jpg"
+                                ], "alts": [
+                                    "An image of sikkertspil.dk",
+                                    "An image of Dantoto T-shirt",
+                                    "An image of Oddset Wunderbaum",
+                                    "An image of In to Century tshirt poster",
+                                    "An image of cph cloud dhl Mascot",
+                                    "An image of Millionjagten"
+                                ],
+                                "titles": [ 
+                                    "sikkertspil.dk",
+                                    "Dantoto T-shirt",
+                                    "Dantoto T-shirt",
+                                    "Wunderbaum'ish",
+                                    "In to Century",
+                                    "Mascot",
+                                    "Millionjagten"
+                                ],
+                                "fcaps": [
+                                    "sikkertspil.dk water bottle label.",
+                                    "Dantoto T-shirt.",
+                                    "Wunderbaum'ish air freshener, with the sent of football & newly mowed lawn.",
+                                    "T-shirt and poster for the rock band In to Century.",
+                                    "T-shirt Mascot for CPHCloud DHL run.",
+                                    "Millionjagten a scratch lottery ticket."
+                                    ],"iframe":[],
+                                    "motion":[]
+                                    },
+                            {
+                                "id": "7",
+                                "Client": "xxxx",
+                                "Role": "Graphic designer",
+                                "URL": " ",
+                                "URLtxt": " ",
+                                "h2": "Logos",
+                                "ptxt": " ",
+                                "h3": "Logos",
+                                "p1":" ",
+                                "thumb": "img/logos/logo.jpg",
+                                "alt": "image of logos",
+                                "title": "various logos",
+                                "images": [
+                                   "img/logos/logo_1.jpg",
+                                   "img/logos/logo_2.jpg",
+                                   "img/logos/logo_3.jpg",
+                                   "img/logos/logo_4.jpg",
+                                   "img/logos/logo_5.jpg"
+                                ], "alts": [
+                                    "An image of something 1.2"
+                                    
+                                ],"titles": [
+                                    "titletxt 1.2"
+                                ],
+                                "fcaps": [
+                                    "<a hreff='https://hoejfynsfodpleje.klikbook.dk/'>Højfyns fodpleje</a>.",
+                                    "<a hreff='https://www.joncentury.com/'> Hand drawn logo for hard rock group Into Century</a>.",
+                                    "<a hreff='http://laark.dk/'> Laungaard Arkitekter</a>.",
+                                    "<a hreff='https://www.instagram.com/ebberupfodpleje/'> Ebberup fodpleje</a>.",
+                                    "Bonnie & Clyde."
+
+                                ],
+                                "iframe":[],
+                                "motion":[]
+                            },{
+                                "id": "8",
+                                "Client": "xxxx",
+                                "Role": "Motion Designer",
+                                "URL": " ",
+                                "URLtxt": " ",
+                                "h2": "Motion Graphics",
+                                "ptxt": "",
+                                "h3": "Motion Graphics",
+                                "p1":"",
+                                "thumb": "img/motion/quickmotion2.gif",
+                                "alt": "",
+                                "title": "",
+                                "images":["img/motion/aa-flip-V2.gif"], 
+                                "alts":[],
+                                "titles":[],
+                                "fcaps":["",""],
+                                "iframe":[],
+                                "motion":[
+                                        "img/motion/2020_dli_bng_social_motion_1080x1350_1.mp4"
+                                    ]
+                            }
+                            ,{
+                                "id": "9",
+                                "Client": "xxxx",
+                                "Role": "Illustrator / Painter",
+                                "URL": "xxx",
+                                "URLtxt": "xxx",
+                                "h2": "Be Awesome",
+                                "ptxt": "A motivational wallpainting",
+                                "h3": "Be Awesome",
+                                "p1":"sometimes you need motivation",
+                                "thumb": "img/wallpainting_awesome/wall-painting_awesome.jpg",
+                                "alt": "alttxt",
+                                "title": "titletxt",
+                                "images": [
+                                   "img/wallpainting_awesome/wall-painting_awesome_1.jpg",
+                                   "img/wallpainting_awesome/wall-painting_awesome_2.jpg",
+                                   "img/wallpainting_awesome/wall-painting_awesome_3.jpg",
+                                   "img/wallpainting_awesome/wall-painting_awesome_4.jpg"
+                                ], "alts": [
+                                    "An image of something 1.2"
+                                    
+                                ],"titles": [
+                                    "titletxt 1.2"
+                                ],
+                                "fcaps": [
+                                    "The Sketch is drawn on the wall."
+                                ],
+                                "iframe":[],
+                                "motion":[]
+                            },{
+                                    "id": "10",
+                                    "Client": "Me",
+                                    "Role": "Designer / coder",
+                                    "URL": "https://github.com/kristianAndersen/OCD",
+                                    "URLtxt": "Get it on github",
+                                    "h2": "OCD - One click Directory",
+                                    "ptxt": "A productivity utility for the MAC<br>coded in Node.js/Electron",
+                                    "h3": "OCD",
+                                    "p1":"MAC APP",
+                                    "thumb": "img/OCD/ocd.jpg",
+                                    "alt": "OCD APP",
+                                    "title": "OCD MAC APP",
+                                    "images": [
+                                        "img/OCD/ocd.gif"
+                                    ], "alts": [
+                                        "An image of the mac app ocd"
+                                    ],
+                                    "titles": [
+                                        "OCD - One click Directory"
+                                    ],
+                                    "fcaps": ["i like to structure my files and i like to optimize my workflow, that's how OCD came about. With OCD i only need one click and then i know that directory names always have the right formatting, and best of all i don't have to manually create and name directories"],
+                                        "iframe":[],
+                                        "motion":[]
+                                        },
+                            
+                            {
+                                "id": "11",
+                                "Client": "Bendix Copenhagen",
+                                "Role": "Art Director / Designer",
+                                "URL": "http://www.bendixcopenhagen.com/",
+                                "URLtxt": "bendix copenhagen",
+                                "h2": "Wall painting",
+                                "ptxt": "text mekst lekst<br>project 2",
+                                "h3": "Bendix Copenhagen",
+                                "p1":"Wallpainting for a jewelry shop",
+                                "thumb": "/img/wallpainting_bendixcph/wall-painting_bendix-cph.jpg",
+                                "alt": "picture of me infront of the wall painting",
+                                "title": "bendixcph-wallpaiting",
+                                "images": [
+                                   "/img/wallpainting_bendixcph/wall-painting_bendix-cph_1.jpg",
+                                   "/img/wallpainting_bendixcph/wall-painting_bendix-cph_2.jpg",
+                                   "/img/wallpainting_bendixcph/wall-painting_bendix-cph_3.jpg",
+                                   "/img/wallpainting_bendixcph/wall-painting_bendix-cph_5.jpg"
+                                ], "alts": [
+                                    "An image of black wall",
+                                    "An image of wallpaiting process 1",
+                                    "An image of wallpaiting process 2",
+                                    "An image of finished wallpaiting"
+                                    
+                                ],"titles": [
+                                    "bendixcph-wallpaiting-1",
+                                    "bendixcph-wallpaiting-2",
+                                    "bendixcph-wallpaiting-3",
+                                    "bendixcph-wallpaiting-5"
+                                ],
+                                "fcaps": [
+                                    "A big empty wall is always a bit scary",
+                                    "Progress is made",
+                                    "The painting is finished",
+                                    "Now with decore"
+                                ],
+                                "iframe":[],
+                                "motion":[]
+                            }
+
     ]
 }
