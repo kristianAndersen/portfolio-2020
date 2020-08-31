@@ -448,11 +448,11 @@
                                     "ptxt": "A productivity utility for the MAC<br>coded in Node.js/Electron",
                                     "h3": "OCD",
                                     "p1":"MAC APP",
-                                    "thumb": "img/OCD/ocd.jpg",
+                                    "thumb": "img/ocd/ocd.jpg",
                                     "alt": "OCD APP",
                                     "title": "OCD MAC APP",
                                     "images": [
-                                        "img/OCD/ocd.gif"
+                                        "img/ocd/ocd.gif"
                                     ], "alts": [
                                         "An image of the mac app ocd"
                                     ],
