@@ -132,10 +132,10 @@ p{
 .hero-heading {
     position: absolute;
     top: 50%;
-    left: 1em;
-    /*transform: translate(-50%, -50%);*/
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
-.hero-wrap>.svgwrap {
+.hero-wrap .svgwrap {
     padding-left: 1em;
     padding-top: 0.5em;
     width: 15vw;
@@ -413,7 +413,22 @@ figcaption{
    Media Queries
    ========================================================================== */
  @media only screen and (min-width: 319px) {
-
+    .hero-wrap {
+        margin-top: 20px;;
+        padding: 1vmin 1rem;
+        position: relative;
+        display: block;
+        width: 100vw;
+        height: calc(var(--vh, 1vh) * 15);
+        
+    }
+    .hero-wrap >.svgwrap {
+    
+        padding-left: 0em;
+        padding-top: 0em;
+        width: 20vw;
+        height: auto;
+    }
 }
 
 
@@ -427,10 +442,40 @@ figcaption{
         max-width: 600px;
         height: 100%;
     }
+    .hero-wrap {
+        padding: 0vmin 0rem;
+        position: relative;
+        display: block;
+        width: 100vw;
+        height: calc(var(--vh, 1vh) * 15);
+        
+    }
+    .hero-wrap >.svgwrap {
+    
+        padding-left: 2em;
+        padding-top: 1em;
+        width: 15%;
+        height: auto;
+    }
 
 }
 @media only screen and (min-width: 840px) {
-
+    .hero-wrap {
+        margin-top: 20px;;
+        padding: 1vmin 1rem;
+        position: relative;
+        display: block;
+        width: 100vw;
+        height: calc(var(--vh, 1vh) * 20);
+        
+    }
+    .hero-wrap >.svgwrap {
+    
+        padding-left: 1em;
+        padding-top: 0em;
+        width: 14vw;
+        height: auto;
+    }
 }
 /*
 @media only screen and (min-width: 965px) {
@@ -448,6 +493,7 @@ figcaption{
         max-width: 300px;
         height: 100%;
     }
+
 }
 
 @media only screen and (min-width: 1200px) {
@@ -455,7 +501,12 @@ figcaption{
         width: 33.3333%;
         
     }
-
+    .hero-wrap >.svgwrap {
+        padding-left: 1em;
+        padding-top: 0em;
+        width: 11vw;
+        height: auto;
+    }
 }
 
 @media only screen and (min-width: 1800px) {
