@@ -55,11 +55,11 @@
                 "URLtxt": "Case description",
                 "h2": "Happy Ignorance",
                 "ptxt": "A pixie book book about big data",
-                "h3": "IBM Lykkelig Uvidenhed",
+                "h3": "IBM Happy Ignorance",
                 "p1":"winner of BEDSTE DIRECT MAIL<img class='txtwrapimg' src='img/award.png'>",
                 "thumb": "/img/IBM-lykkeliguvidenhed.jpg",
-                "alt": "lykkelig Uvidenhed/Happy Ignorance. IBM",
-                "title": "IBM lykkelig uvidenhed/Happy Ignorance",
+                "alt": "Happy Ignorance/Happy Ignorance. IBM",
+                "title": "IBM Happy Ignorance/Happy Ignorance",
                 "images": [
                     "/img/IBM/IBM-LykkeligUvidenhed-page-xx.jpg",
                     "/img/IBM/IBM-LykkeligUvidenhed-page-xxx.jpg",
@@ -74,11 +74,11 @@
                     "A pixibog book about big data page 5"
                 ],
                 "titles": [
-                    "lykkelig uvidenhed 1",
-                    "lykkelig uvidenhed 2",
-                    "lykkelig uvidenhed 3",
-                    "lykkelig uvidenhed 4",
-                    "lykkelig uvidenhed 5"
+                    "Happy Ignorance 1",
+                    "Happy Ignorance 2",
+                    "Happy Ignorance 3",
+                    "Happy Ignorance 4",
+                    "Happy Ignorance 5"
                 ],
                 "fcaps": [
                     " ",
@@ -101,8 +101,8 @@
                 "h3": "Roll-ups",
                 "p1":" ",
                 "thumb": "img/rollups/rollups.jpg",
-                "alt": "alttxt",
-                "title": "titletxt",
+                "alt": "image of roll up",
+                "title": "image of roll up",
                 "images": [
                     "img/rollups/rollups-1.jpg",
                     "img/rollups/rollups-2.jpg",
@@ -120,7 +120,7 @@
                 "titles": [
                     "Spillehjørnet Yatzy Roll-up",
                     "Semper porridge Roll-up",
-                    "pillehjørnet Yatzy Roll-up",
+                    "Spillehjørnet Yatzy Roll-up",
                     "Baby courage Roll-up",
                     "kagedysten Roll-up",
                     "Hjerterdame Roll-up"
@@ -143,12 +143,12 @@
                 "Role": "Art Director / Graphic Designer",
                 "URL": " ",
                 "URLtxt": " ",
-                "h2": "Klar, Parat, Spis!",
+                "h2": "Ready, Set, Eat!",
                 "ptxt": "Baby's First Foods",
-                "h3": "Klar, Parat, Spis!",
+                "h3": "Ready, Set, Eat!",
                 "p1":"Baby's First Food plan",
                 "thumb": "img/semper/klar_parat_spis/klar_parat_spis.jpg",
-                "alt": "Semper Klar, parat, spis!",
+                "alt": "Semper Ready, Set, Eat!",
                 "title": "Klar, Parat, Spis",
                 "images": [
                     "img/semper/klar_parat_spis/klar_parat_spis_1.jpg",
@@ -178,18 +178,18 @@
                     "An image of semper mobile app"
                 ],
                 "titles": [
-                    "semper klar, part, spis side 1",
-                    "semper klar, part, spis side 2",
-                    "semper klar, part, spis side 3",
-                    "semper klar, part, spis side 4",
-                    "semper klar, part, spis side 5",
-                    "semper klar, part, spis side 6",
-                    "semper klar, part, spis side 7",
-                    "semper klar, part, spis side 8",
-                    "semper klar, part, spis side 9",
-                    "semper klar, part, spis side 10",
-                    "semper klar, part, spis side 11",
-                    "semper klar, part, spis side 12"
+                    "semper Ready, Set, Eat! side 1",
+                    "semper Ready, Set, Eat! side 2",
+                    "semper Ready, Set, Eat! side 3",
+                    "semper Ready, Set, Eat! side 4",
+                    "semper Ready, Set, Eat! side 5",
+                    "semper Ready, Set, Eat! side 6",
+                    "semper Ready, Set, Eat! side 7",
+                    "semper Ready, Set, Eat! side 8",
+                    "semper Ready, Set, Eat! side 9",
+                    "semper Ready, Set, Eat! side 10",
+                    "semper Ready, Set, Eat! side 11",
+                    "semper Ready, Set, Eat! side 12"
                 ],
                 "fcaps": [
                     " ",
@@ -277,9 +277,9 @@
                                 "Role": "UX / Design/",
                                 "URL": "https://www.semperbornemad.dk/dit-barns-mad-klar-parat-spis/app-guide",
                                 "URLtxt": "Get the app here",
-                                "h2": "Klar, Part, Spis!",
+                                "h2": "Ready, Set, Eat!!",
                                 "ptxt": "As an IOS/Android mobie app",
-                                "h3": "Klar, Part, Spis!",
+                                "h3": "Ready, Set, Eat!!",
                                 "p1":"The mobile App",
                                 "thumb": "img/semper/kps_app/KPS-app.jpg",
                                 "alt": "alttxt",
@@ -289,14 +289,14 @@
                                     "img/semper/kps_app/KPS-app_3.jpg",
                                     "img/semper/kps_app/KPS-app_1.jpg"
                                 ], "alts": [
-                                    "An image of screens from the klar, part, spis app",
-                                    "An image of screens from the klar, part, spis app icons",
+                                    "An image of screens from the Ready, Set, Eat! app",
+                                    "An image of screens from the Ready, Set, Eat! app icons",
                                     "An image of a hand drawn flow of the app"
                                 ],
                                 "titles": [
-                                    " klar, part, spis app screens",
-                                    " klar, part, spis app icons",
-                                    "hand drawn app flow "
+                                    " Ready, Set, Eat! app screens",
+                                    " Ready, Set, Eat! app icons",
+                                    " Hand drawn app flow "
                                 ],
                                 "fcaps": [
                                     "A few of the main screens from the app.",
@@ -471,7 +471,7 @@
                                 "URL": "http://www.bendixcopenhagen.com/",
                                 "URLtxt": "bendix copenhagen",
                                 "h2": "Wall painting",
-                                "ptxt": "text mekst lekst<br>project 2",
+                                "ptxt": "",
                                 "h3": "Bendix Copenhagen",
                                 "p1":"Wallpainting for a jewelry shop",
                                 "thumb": "/img/wallpainting_bendixcph/wall-painting_bendix-cph.jpg",
