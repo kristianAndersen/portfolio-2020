@@ -119,7 +119,7 @@ let modalslidecontent=`<section class="modal-content">
   if(motion.length>0){
     for (let i = 0; i < motion.length; i++) { 
       modalslidecontent=modalslidecontent+`<video width="850" controls>
-      <source src="${motion}" type="video/mp4">
+      <source src="${motion[i]}" type="video/mp4">
       Your browser does not support HTML video.
     </video>
        <figcaption>${fcaps[i]}</figcaption>`

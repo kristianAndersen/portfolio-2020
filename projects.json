@@ -400,13 +400,18 @@
                                 "thumb": "img/motion/quickmotion2.gif",
                                 "alt": "",
                                 "title": "",
-                                "images":["img/motion/aa-flip-V2.gif"], 
+                                "images":[""], 
                                 "alts":[],
                                 "titles":[],
                                 "fcaps":["",""],
                                 "iframe":[],
                                 "motion":[
-                                        "img/motion/2020_dli_bng_social_motion_1080x1350_1.mp4"
+                                    "img/motion/accountManager.mp4",
+                                    "img/motion/AccountManager_.mp4",
+                                    "img/motion/sommerhilsen.mp4",
+                                    "img/motion/2020_dli_bng_social_motion_1080x1350_1.mp4"
+                                        
+                                        
                                     ]
                             }
                             ,{
