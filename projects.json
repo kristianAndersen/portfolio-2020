@@ -389,7 +389,7 @@
                                 "motion":[]
                             },{
                                 "id": "8",
-                                "Client": "xxxx",
+                                "Client": "",
                                 "Role": "Motion Designer",
                                 "URL": " ",
                                 "URLtxt": " ",
@@ -400,15 +400,16 @@
                                 "thumb": "img/motion/quickmotion2.gif",
                                 "alt": "",
                                 "title": "",
-                                "images":[""], 
+                                "images":[], 
                                 "alts":[],
                                 "titles":[],
-                                "fcaps":["",""],
+                                "fcaps":["Aftereffect","Aftereffect","Aftereffect","dynamic html/js banner","Aftereffect"],
                                 "iframe":[],
                                 "motion":[
                                     "img/motion/accountManager.mp4",
                                     "img/motion/AccountManager_.mp4",
                                     "img/motion/sommerhilsen.mp4",
+                                    "img/motion/eoddset.mp4",
                                     "img/motion/2020_dli_bng_social_motion_1080x1350_1.mp4"
                                         
                                         
